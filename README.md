@@ -23,7 +23,20 @@ The design follows normal document flow without using Flexbox, Grid, Position, o
 - style.css
 - img.jpg
 
+
 ### Screenshots
+
+### Home Page
+(Screenshot/index.png)
+
+### Login Page
+(Screenshot/login.png)
+
+### Dashboard Page
+(Screenshot/dashboard.png)
+
+### Student List Page
+(Screenshot/list.png)
 
 
 ### Author
